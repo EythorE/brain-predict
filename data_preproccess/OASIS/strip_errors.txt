@@ -1,0 +1,438 @@
+fslreorient2std...
+ERROR: Orientation information not stored in ./OASIS3/OAS30742_MR_d0058/anat4/NIFTI/sub-OAS30742_ses-d0058_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30742_MR_d0058/anat3/NIFTI/sub-OAS30742_ses-d0058_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30742_MR_d0058/anat5/NIFTI/sub-OAS30742_ses-d0058_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30720_MR_d0069/anat4/NIFTI/sub-OAS30720_ses-d0069_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30720_MR_d0069/anat3/NIFTI/sub-OAS30720_ses-d0069_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30720_MR_d0069/anat5/NIFTI/sub-OAS30720_ses-d0069_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30736_MR_d3151/anat4/NIFTI/sub-OAS30736_ses-d3151_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30736_MR_d3151/anat3/NIFTI/sub-OAS30736_ses-d3151_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30736_MR_d3151/anat5/NIFTI/sub-OAS30736_ses-d3151_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30965_MR_d0791/anat4/NIFTI/sub-OAS30965_ses-d0791_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30965_MR_d0791/anat3/NIFTI/sub-OAS30965_ses-d0791_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30965_MR_d0791/anat5/NIFTI/sub-OAS30965_ses-d0791_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30784_MR_d0126/anat4/NIFTI/sub-OAS30784_ses-d0126_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30784_MR_d0126/anat3/NIFTI/sub-OAS30784_ses-d0126_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30784_MR_d0126/anat5/NIFTI/sub-OAS30784_ses-d0126_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30505_MR_d4103/anat4/NIFTI/sub-OAS30505_ses-d4103_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30505_MR_d4103/anat3/NIFTI/sub-OAS30505_ses-d4103_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30505_MR_d4103/anat5/NIFTI/sub-OAS30505_ses-d4103_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30787_MR_d3333/anat4/NIFTI/sub-OAS30787_ses-d3333_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30787_MR_d3333/anat3/NIFTI/sub-OAS30787_ses-d3333_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30787_MR_d3333/anat5/NIFTI/sub-OAS30787_ses-d3333_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30530_MR_d0522/anat4/NIFTI/sub-OAS30530_ses-d0522_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30530_MR_d0522/anat3/NIFTI/sub-OAS30530_ses-d0522_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30530_MR_d0522/anat5/NIFTI/sub-OAS30530_ses-d0522_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30984_MR_d4520/anat4/NIFTI/sub-OAS30984_ses-d4520_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30984_MR_d4520/anat3/NIFTI/sub-OAS30984_ses-d4520_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30984_MR_d4520/anat5/NIFTI/sub-OAS30984_ses-d4520_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30794_MR_d1680/anat4/NIFTI/sub-OAS30794_ses-d1680_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30794_MR_d1680/anat3/NIFTI/sub-OAS30794_ses-d1680_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30794_MR_d1680/anat5/NIFTI/sub-OAS30794_ses-d1680_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30963_MR_d0047/anat3/NIFTI/sub-OAS30963_ses-d0047_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30963_MR_d0047/anat4/NIFTI/sub-OAS30963_ses-d0047_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30963_MR_d0047/anat5/NIFTI/sub-OAS30963_ses-d0047_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30960_MR_d0831/anat4/NIFTI/sub-OAS30960_ses-d0831_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30960_MR_d0831/anat3/NIFTI/sub-OAS30960_ses-d0831_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30960_MR_d0831/anat5/NIFTI/sub-OAS30960_ses-d0831_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30539_MR_d0154/anat4/NIFTI/sub-OAS30539_ses-d0154_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30539_MR_d0154/anat3/NIFTI/sub-OAS30539_ses-d0154_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30539_MR_d0154/anat5/NIFTI/sub-OAS30539_ses-d0154_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30960_MR_d0061/anat4/NIFTI/sub-OAS30960_ses-d0061_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30960_MR_d0061/anat6/NIFTI/sub-OAS30960_ses-d0061_run-04_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30960_MR_d0061/anat3/NIFTI/sub-OAS30960_ses-d0061_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30960_MR_d0061/anat5/NIFTI/sub-OAS30960_ses-d0061_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30777_MR_d0526/anat4/NIFTI/sub-OAS30777_ses-d0526_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30777_MR_d0526/anat3/NIFTI/sub-OAS30777_ses-d0526_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30777_MR_d0526/anat5/NIFTI/sub-OAS30777_ses-d0526_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30516_MR_d0225/anat4/NIFTI/sub-OAS30516_ses-d0225_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30516_MR_d0225/anat3/NIFTI/sub-OAS30516_ses-d0225_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30516_MR_d0225/anat5/NIFTI/sub-OAS30516_ses-d0225_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30506_MR_d1039/anat4/NIFTI/sub-OAS30506_ses-d1039_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30506_MR_d1039/anat5/NIFTI/sub-OAS30506_ses-d1039_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30718_MR_d5999/anat5/NIFTI/sub-OAS30718_ses-d5999_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30718_MR_d5999/anat4/NIFTI/sub-OAS30718_ses-d5999_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30314_MR_d6379/anat4/NIFTI/sub-OAS30314_ses-d6379_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30314_MR_d6379/anat3/NIFTI/sub-OAS30314_ses-d6379_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30314_MR_d6379/anat5/NIFTI/sub-OAS30314_ses-d6379_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30787_MR_d2854/anat4/NIFTI/sub-OAS30787_ses-d2854_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30787_MR_d2854/anat3/NIFTI/sub-OAS30787_ses-d2854_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30787_MR_d2854/anat5/NIFTI/sub-OAS30787_ses-d2854_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30972_MR_d0842/anat4/NIFTI/sub-OAS30972_ses-d0842_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30972_MR_d0842/anat3/NIFTI/sub-OAS30972_ses-d0842_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30972_MR_d0842/anat5/NIFTI/sub-OAS30972_ses-d0842_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30558_MR_d0061/anat4/NIFTI/sub-OAS30558_ses-d0061_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30558_MR_d0061/anat3/NIFTI/sub-OAS30558_ses-d0061_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30558_MR_d0061/anat5/NIFTI/sub-OAS30558_ses-d0061_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30984_MR_d3927/anat4/NIFTI/sub-OAS30984_ses-d3927_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30984_MR_d3927/anat3/NIFTI/sub-OAS30984_ses-d3927_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30984_MR_d3927/anat5/NIFTI/sub-OAS30984_ses-d3927_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30720_MR_d0566/anat4/NIFTI/sub-OAS30720_ses-d0566_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30720_MR_d0566/anat3/NIFTI/sub-OAS30720_ses-d0566_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30720_MR_d0566/anat5/NIFTI/sub-OAS30720_ses-d0566_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30530_MR_d0119/anat4/NIFTI/sub-OAS30530_ses-d0119_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30530_MR_d0119/anat6/NIFTI/sub-OAS30530_ses-d0119_run-04_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30530_MR_d0119/anat3/NIFTI/sub-OAS30530_ses-d0119_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30530_MR_d0119/anat5/NIFTI/sub-OAS30530_ses-d0119_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30303_MR_d0910/anat4/NIFTI/sub-OAS30303_ses-d0910_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30303_MR_d0910/anat3/NIFTI/sub-OAS30303_ses-d0910_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30303_MR_d0910/anat5/NIFTI/sub-OAS30303_ses-d0910_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30791_MR_d1422/anat4/NIFTI/sub-OAS30791_ses-d1422_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30791_MR_d1422/anat3/NIFTI/sub-OAS30791_ses-d1422_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30964_MR_d0397/anat4/NIFTI/sub-OAS30964_ses-d0397_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30964_MR_d0397/anat3/NIFTI/sub-OAS30964_ses-d0397_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30776_MR_d0308/anat4/NIFTI/sub-OAS30776_ses-d0308_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30776_MR_d0308/anat3/NIFTI/sub-OAS30776_ses-d0308_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30776_MR_d0308/anat5/NIFTI/sub-OAS30776_ses-d0308_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30724_MR_d2228/anat6/NIFTI/sub-OAS30724_ses-d2228_run-04_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30724_MR_d2228/anat3/NIFTI/sub-OAS30724_ses-d2228_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30724_MR_d2228/anat5/NIFTI/sub-OAS30724_ses-d2228_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30505_MR_d4682/anat4/NIFTI/sub-OAS30505_ses-d4682_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30505_MR_d4682/anat3/NIFTI/sub-OAS30505_ses-d4682_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30505_MR_d4682/anat5/NIFTI/sub-OAS30505_ses-d4682_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30965_MR_d0434/anat4/NIFTI/sub-OAS30965_ses-d0434_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30965_MR_d0434/anat3/NIFTI/sub-OAS30965_ses-d0434_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30965_MR_d0434/anat5/NIFTI/sub-OAS30965_ses-d0434_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30539_MR_d0640/anat4/NIFTI/sub-OAS30539_ses-d0640_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30539_MR_d0640/anat3/NIFTI/sub-OAS30539_ses-d0640_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30539_MR_d0640/anat5/NIFTI/sub-OAS30539_ses-d0640_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30745_MR_d2651/anat4/NIFTI/sub-OAS30745_ses-d2651_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30745_MR_d2651/anat3/NIFTI/sub-OAS30745_ses-d2651_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30745_MR_d2651/anat5/NIFTI/sub-OAS30745_ses-d2651_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30969_MR_d0047/anat4/NIFTI/sub-OAS30969_ses-d0047_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30969_MR_d0047/anat3/NIFTI/sub-OAS30969_ses-d0047_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30969_MR_d0047/anat5/NIFTI/sub-OAS30969_ses-d0047_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30314_MR_d6827/anat4/NIFTI/sub-OAS30314_ses-d6827_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30314_MR_d6827/anat3/NIFTI/sub-OAS30314_ses-d6827_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30314_MR_d6827/anat5/NIFTI/sub-OAS30314_ses-d6827_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30786_MR_d0286/anat4/NIFTI/sub-OAS30786_ses-d0286_run-02_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30786_MR_d0286/anat3/NIFTI/sub-OAS30786_ses-d0286_run-01_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+ERROR: Orientation information not stored in ./OASIS3/OAS30786_MR_d0286/anat5/NIFTI/sub-OAS30786_ses-d0286_run-03_T1w.nii.gz!
+Cannot reslice without orientation information (i.e. need valid labels in FSLView)
+The NIfTI image must contain a non-zero code for either the sform or the qform
+ - check your reconstruction/conversion software to try and fix this
+
